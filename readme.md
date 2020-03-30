@@ -1,4 +1,4 @@
-# Part 2
+# Phase 3
 Add your name and the URL of the repository you created in Part 1 of this lab in `submissions.txt`. It should be in the following format
 
 ```
