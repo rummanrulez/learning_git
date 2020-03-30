@@ -6,3 +6,5 @@ Add your name and the URL of the repository you created in Part 1 of this lab in
 ```
 
 See `submissions.txt` for an example
+
+ This repo is NOT your github pages repo.
