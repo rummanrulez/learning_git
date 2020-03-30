@@ -1,5 +1,5 @@
 # Phase 3
-Add your name and the URL of the repository you created in Part 1 of this lab in `submissions.txt`. It should be in the following format
+Add your name and the URL of the repository you created in Phase 1 of this lab in `submissions.txt`. It should be in the following format
 
 ```
 <student_name>@<url_of_repository>
