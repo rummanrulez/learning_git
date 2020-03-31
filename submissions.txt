@@ -2,7 +2,6 @@ Luke Sweeney@llamicron/lab_grader
 David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
-
 Jacob Riley@thatboredguy999/lab8
 Andrew Chapman@achapman98/achapman98
 Alex Nguyen@Alexn0910/lab8
