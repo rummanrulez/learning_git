@@ -3,3 +3,5 @@ David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
 Alex Nguyen@Alexn0910/lab8
+Kyle Niewierski@kniewierski/git_lab
+Alan Cavazos@alancavazos/alancavazoslab8
