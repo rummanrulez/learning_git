@@ -1,2 +1,4 @@
-Luke Sweeney@https://github.com/llamicron/git_demo
-David Sweeney@https://github.com/adaptiman/learning_git
+Luke Sweeney@llamicron/lab_grader
+David Sweeney@adaptiman/TactileTTS
+Navasota Brewing@NavasotaBrewing/brewdrivers
+Luke Sweeney@llamicron/seagull
