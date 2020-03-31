@@ -2,3 +2,4 @@ Luke Sweeney@llamicron/lab_grader
 David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
+Juan Quiroz@jquiroz111/lab8
