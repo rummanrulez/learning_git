@@ -1,4 +1,4 @@
-Luke Sweeney@llamicron/lab_grader
+Luke Sweeney@llamicron/astrotools
 David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
