@@ -2,6 +2,7 @@ Luke Sweeney@llamicron/astrotools
 David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
+Juan Quiroz@jquiroz111/lab8
 Darrian Hunter@darrianhunter7/Lab8
 Jacob Riley@thatboredguy999/lab8
 Andrew Chapman@achapman98/achapman98
