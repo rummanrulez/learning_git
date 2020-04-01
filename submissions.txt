@@ -1,5 +1,14 @@
-Luke Sweeney@llamicron/lab_grader
+Luke Sweeney@llamicron/astrotools
 David Sweeney@adaptiman/TactileTTS
 Navasota Brewing@NavasotaBrewing/brewdrivers
 Luke Sweeney@llamicron/seagull
 Juan Quiroz@jquiroz111/lab8
+Darrian Hunter@darrianhunter7/Lab8
+Jacob Riley@thatboredguy999/lab8
+Andrew Chapman@achapman98/achapman98
+Alex Nguyen@Alexn0910/lab8
+Kyle Niewierski@kniewierski/git_lab
+Alan Cavazos@alancavazos/alancavazoslab8
+Joshua Saldua@JSaldua20/JoshuaSaldua
+Julia Raburn@juliaraburn/juliaraburn
+Justin Lim@justinlim1019/TCMG303
