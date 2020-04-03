@@ -12,4 +12,5 @@ Alan Cavazos@alancavazos/alancavazoslab8
 Joshua Saldua@JSaldua20/JoshuaSaldua
 Julia Raburn@juliaraburn/juliaraburn
 Justin Lim@justinlim1019/TCMG303
+John Dorman@acolite-d/lab8
 Juan Quiroz@jquiroz111/lab8
