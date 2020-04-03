@@ -13,3 +13,5 @@ Joshua Saldua@JSaldua20/JoshuaSaldua
 Julia Raburn@juliaraburn/juliaraburn
 Justin Lim@justinlim1019/TCMG303
 Donald Williams@DJWilliams22/Dwilltcmg303lab
+John Dorman@acolite-d/lab8
+Juan Quiroz@jquiroz111/lab8
