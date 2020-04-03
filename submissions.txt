@@ -21,5 +21,6 @@ Matthew Swinney@mswinney/Matthew-Swinney-lab8
 Trent Spears@nixfanboy/tcmg303lab
 Spencer Anderson@TheCommanderson/scripts_lab
 Nhat-Tien Nguyen@nhattn38/tcmglab8
+Sergio De La Garza@Sergiodlg/Lab 
 Nicholas Lerma@nicklerma4/lab8
 Emily Dinh@emilydinh1/lab8
