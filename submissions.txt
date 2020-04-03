@@ -21,3 +21,4 @@ Matthew Swinney@mswinney/Matthew-Swinney-lab8
 Trent Spears@nixfanboy/tcmg303lab
 Spencer Anderson@TheCommanderson/scripts_lab
 Nhat-Tien Nguyen@nhattn38/tcmglab8
+Michael Maldonado@michaeldean22/Lab-8
