@@ -22,3 +22,4 @@ Trent Spears@nixfanboy/tcmg303lab
 Spencer Anderson@TheCommanderson/scripts_lab
 Nhat-Tien Nguyen@nhattn38/tcmglab8
 Emily Dinh@emilydinh1/lab8
+Jonathan Ilori@JonathanIlori/lab8
