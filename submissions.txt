@@ -28,6 +28,7 @@ Sergio De La Garza@Sergiodlg/Lab
 Nicholas Lerma@nicklerma4/lab8
 Emily Dinh@emilydinh1/lab8
 Alec razalec@razalec/lab8.1
+Adrian Gomez Lafaire @adriangl98/labWebsite
 Nicholas Rhodes@NickR055/NickR
 Ricardo Duenez@ricardoduenez/Lab8.0
 Vernesha Hazel@verneshahazel/Lab8
